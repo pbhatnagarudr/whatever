@@ -14,3 +14,7 @@ def sub(x, y):
 hi = 23
 
 d = {'Name':'Pratul', 'Age':38}
+
+x = 7
+y = 8
+print('The Sum of Two Numbers are', x + y)
